@@ -1,9 +1,9 @@
 # ENTITY FRAMEWORK STUDY
-Estudo sobre aplicação do ENTITY FRAMEWORK utilizando um banco de dados legado.
+Study on the application of ENTITY FRAMEWORK using a legacy database.
 
-O Projeto está com o foco de pegar o banco legado e replicar ele utilizando o ENTITY FRAMEWORK, sendo necessário configurar as entidades para mudar seus tipos nas migrations, assim como a criação de relacionamentos N para N, criação de SHADOW PROPERTIES e realização de queries utilizando o LINQ.
+The project aims to take the legacy database and replicate it using ENTITY FRAMEWORK. This involves configuring entities to change their types in migrations, as well as creating many-to-many relationships, using SHADOW PROPERTIES, and performing queries using LINQ.
 
-⚙️ Tecnologias Utilizadas nesse projeto:
+⚙️ Technologies Used in this Project:
 
 .NET 6.0
 C#
